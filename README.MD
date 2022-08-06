@@ -1,7 +1,5 @@
-# Prueba ténica de Oauth2.0 - Constructora Bolivar
+# Prueba técnica de Oauth2.0 - Constructora Bolivar
 ### David Portocarrero Caicedo
-ing.portocarrero@gmail.com
-315 770 54 56
 
 ## Para correr la aplicación
 La aplicación está Dockerizada y disponible en el puerto `3000`.
